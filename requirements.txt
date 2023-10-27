@@ -1,0 +1,10 @@
+--find-links https://download.pytorch.org/whl/torch_stable.html
+requests
+oauth2client
+mysqlclient
+json2table
+flask-mobility
+azure.identity
+azure.keyvault.secrets
+azure.storage.queue
+pyodbc
